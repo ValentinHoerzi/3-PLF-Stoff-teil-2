@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">3-PLF-Stoff-TEIL2</string>
+    <string name="graduated">Graduated?</string>
+    <string name="subjects">Subjects</string>
+    <string name="joined_school_string_hide_bottom_view_on_scroll_behavior">Joined School @string/hide_bottom_view_on_scroll_behavior</string>
+</resources>
